@@ -17,14 +17,14 @@ Data analysis project using Excel to explore employee performance, salaries, and
 ### 💸 Monthly Salary by Department
 ![Salary by Department](salary-by-dept.png)
 
-### 📚 Performance Ratings vs Education level
-![Performance Ratings](performance-rating-edu.png)
+### 📚 Performance Ratings vs Education Level
+![Performance Ratings](Perfomance%20Rating%20Per%20Education%20Level.%20png.PNG)
 
 ### 👥 Gender Distribution Across Departments
-![Gender Distribution](gender-distribution.png)
+![Gender Distribution](Gender%20Distribution%20Accross%20Dept.%20png.PNG)
 
 ### 🚫 Absentees per Department
-![Absentees by Dept](absentees-by-dept.png)
+![Absentees by Dept](Highest-Absentee%20records.%20png.PNG) <!-- This file actually shows all absentee records -->
 
-### 🧾 Highest Absentee Records
-![Highest Absentee Records](highest-absentee.png)
+### 🧾 Longest Serving Employees
+![Top Serving Employees](Top-serving-employee.%20png.PNG)
