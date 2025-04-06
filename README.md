@@ -1,7 +1,7 @@
 # employee-data-analysis-excel
 Data analysis project using Excel to explore employee performance, salaries, and HR insights
 ## 🖼️ Project Preview
-Dashboard
+##Dashboard
 ![Image](https://github.com/user-attachments/assets/d79889b6-867b-4923-af3b-ca45e974e4d4)
 ### 📊 KPI Dashboard
 ![KPI Dashboard](kpis-overview.png)
