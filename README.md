@@ -10,7 +10,7 @@ Data analysis project using Excel to explore employee performance, salaries, and
 ![Top 5 Salary Earners](top-earners.png)
 
 ### 👴 Longest Serving Employees
-![Top Serving Employees](top-serving-employee.png)
+![Image](https://github.com/user-attachments/assets/a8fa1570-f3e9-4aa9-96d3-b6123fc5e6f9)
 
 ### 📈 Hiring Trend Per Year
 ![Hiring Trend](hiring-trend.png)
