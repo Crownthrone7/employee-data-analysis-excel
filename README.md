@@ -34,12 +34,30 @@ Data analysis project using Excel to explore employee performance, salaries, and
 
 This project explores employee data using Microsoft Excel, with the goal of deriving actionable HR insights. It covers areas such as salary distribution, absenteeism trends, departmental performance, and gender representation. Using PivotTables, conditional formatting, and dashboarding techniques, I built interactive visuals that bring clarity to HR metrics.
 
-### 🔍 Key Highlights:
-- KPI dashboard summarizing salary, job satisfaction, and employment trends
-- Top 5 salary earners and department-wise salary insights
-- Absenteeism records analyzed by department and individual
-- Gender and performance analysis based on education levels
-- Top 5 serving employees
+### 🔍 Key Insights
+
+### 1. Salary Analysis
+- **Department-Level Insights:** Departments such as IT and Finance showed higher average monthly salaries, indicating their strategic value and demand for specialized skills.
+- **Education-Level Comparison:** Employees with higher education levels (e.g., Master’s or PhD) consistently earned more, highlighting a correlation between qualifications and pay.
+- **Gender Pay Gap:** Salary analysis across genders revealed some pay disparities, offering opportunities for equity reviews.
+- **Top Earners:** The top 5 highest-paid employees came mostly from leadership or technical roles.
+
+### 2. Workforce Demographics
+- **Average Age:** The average age of employees indicates a predominantly mid-career workforce.
+- **Gender Representation:** Gender distribution varied across departments—some were more balanced than others, revealing diversity improvement opportunities.
+- **Education by Gender:** Educational attainment showed a trend of postgraduate degrees concentrated among a specific gender group.
+
+### 3. Hiring & Retention
+- **Hiring Trends:** A hiring peak was observed in [2019/2021/etc.], possibly due to business expansion or new initiatives.
+- **Tenure Analysis:** The longest-serving employees have been with the organization for over a decade, reflecting strong retention in certain departments.
+
+### 4. Attendance and Absenteeism
+- **Departmental Absenteeism:** Departments like Operations and Customer Support experienced higher absentee rates—potential indicators of burnout or workload imbalance.
+- **High Absentee Employees:** A small group of employees had significantly higher absence records, potentially affecting team performance.
+
+### 5. Performance Ratings
+- **Departmental Performance:** Marketing and R&D had the highest concentration of top-rated employees, showcasing high-performing teams.
+- **Education vs Performance:** A positive correlation was observed between advanced degrees and higher performance ratings.
   
 ### 🛠 Tools Used:
 - Excel PivotTables
